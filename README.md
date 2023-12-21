@@ -1,4 +1,4 @@
-# 3D-Viewer-on-C-QT
+# 3D-Viewer-on-C
 
 ## Implementation of 3D Viewer.
 
